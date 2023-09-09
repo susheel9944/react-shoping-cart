@@ -8,7 +8,7 @@ function App() {
         <a href="/">React Shoping cart</a>
       </header>
       <main>
-        Product List
+        Demploye by the susheel singh
       </main>
       <footer>
         All right reserve
