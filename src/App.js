@@ -10,6 +10,7 @@ function App() {
       <main>
         Demploye by the susheel singh
         <h1 style={{fontSize:"50px", color:"red"}}>Hello testing </h1>
+        <h2>this is veky nehra</h2>
       </main>
       <footer>
         All right reserve
